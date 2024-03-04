@@ -11,9 +11,8 @@ Será necessário colocar os dois números que serão parte do cálculo e escolh
 Nos casos de potenciação e radiciação, o segundo número, "Número 2", é o índice do cálculo.
 
 ---
-Após isso, clicar em calcular para ter seu resultado.
 ![resultado](https://github.com/IgorJF/Simple-PHP-Calculator/assets/111748228/8f16020c-6f56-43fc-a03e-e853a26596fd)
-
+Após isso, clicar em calcular para ter seu resultado.
 
 ###### Igor Jorge Ferraz
 ###### Feito para fins de estudo.
